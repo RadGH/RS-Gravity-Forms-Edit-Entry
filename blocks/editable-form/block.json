@@ -1,0 +1,14 @@
+{
+	"name": "rs-gravityforms-edit-entry/editable-form",
+	"title": "Editable Form",
+	"description": "Displays a Gravity Form which allows users to edit their previous entry instead of creating new ones.",
+	"style": [],
+	"category": "common",
+	"icon": "edit",
+	"keywords": [ "gravity", "forms", "edit", "entry" ],
+	"acf": {
+		"mode": "preview",
+		"renderTemplate": "editable-form.php"
+	},
+	"align": "full"
+}

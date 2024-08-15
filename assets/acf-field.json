@@ -1,0 +1,109 @@
+[
+	{
+		"key": "group_66be2c070d776",
+		"title": "Editable Form Block",
+		"fields": [
+			{
+				"key": "field_66be2c09f2afd",
+				"label": "Form",
+				"name": "form_id",
+				"aria-label": "",
+				"type": "select",
+				"instructions": "",
+				"required": 0,
+				"conditional_logic": 0,
+				"wrapper": {
+					"width": "",
+					"class": "",
+					"id": ""
+				},
+				"choices": [],
+				"default_value": false,
+				"return_format": "value",
+				"multiple": 0,
+				"allow_null": 0,
+				"ui": 0,
+				"ajax": 0,
+				"placeholder": ""
+			},
+			{
+				"key": "field_66be2c24f2afe",
+				"label": "",
+				"name": "title",
+				"aria-label": "",
+				"type": "true_false",
+				"instructions": "",
+				"required": 0,
+				"conditional_logic": 0,
+				"wrapper": {
+					"width": "",
+					"class": "",
+					"id": ""
+				},
+				"message": "Show title",
+				"default_value": 1,
+				"ui": 0,
+				"ui_on_text": "",
+				"ui_off_text": ""
+			},
+			{
+				"key": "field_66be2c2df2aff",
+				"label": "",
+				"name": "description",
+				"aria-label": "",
+				"type": "true_false",
+				"instructions": "",
+				"required": 0,
+				"conditional_logic": 0,
+				"wrapper": {
+					"width": "",
+					"class": "",
+					"id": ""
+				},
+				"message": "Show description",
+				"default_value": 1,
+				"ui": 0,
+				"ui_on_text": "",
+				"ui_off_text": ""
+			},
+			{
+				"key": "field_66be3323b6bb6",
+				"label": "Confirmation Message",
+				"name": "confirmation_message",
+				"aria-label": "",
+				"type": "textarea",
+				"instructions": "This message will replace the default confirmation message when an existing entry has been edited. A user's first entry will still show the default confirmation message.",
+				"required": 0,
+				"conditional_logic": 0,
+				"wrapper": {
+					"width": "",
+					"class": "",
+					"id": ""
+				},
+				"default_value": "Your entry has been updated.",
+				"maxlength": "",
+				"rows": 4,
+				"placeholder": "",
+				"new_lines": ""
+			}
+		],
+		"location": [
+			[
+				{
+					"param": "block",
+					"operator": "==",
+					"value": "rs-gravityforms-edit-entry\/editable-form"
+				}
+			]
+		],
+		"menu_order": 0,
+		"position": "normal",
+		"style": "default",
+		"label_placement": "top",
+		"instruction_placement": "label",
+		"hide_on_screen": "",
+		"active": true,
+		"description": "",
+		"show_in_rest": 0
+	}
+]
