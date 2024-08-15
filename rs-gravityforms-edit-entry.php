@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: RS Gravity Forms Edit Entry
-Description: Allows users to edit their previous entry on a gravity form. Adds a new "Editable Form" block and supports the Gravity Forms shortcode by adding the <code>editable="true</code> property.
+Description: Allows users to edit their previous entry on a gravity form. Adds a new "Editable Form" block and supports the Gravity Forms shortcode by adding the <code>editable="true"</code> property.
 Version: 1.0.0
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com

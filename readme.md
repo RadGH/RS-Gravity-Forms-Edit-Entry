@@ -1,6 +1,6 @@
 # RS Gravity Forms Edit Entry
 
-This plugin allows users to edit their previous entry on a gravity form. Adds a new "Editable Form" block and supports the Gravity Forms shortcode by adding the <code>editable="true</code> property.
+This plugin allows users to edit their previous entry on a gravity form. Adds a new "Editable Form" block and supports the Gravity Forms shortcode by adding the <code>editable="true"</code> property.
 
 ## Required Plugins
 
