@@ -6,6 +6,7 @@ Version: 1.0.0
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com
 GitHub Plugin URI: https://github.com/RadGH/RS-Gravity-Forms-Edit-Entry
+GitHub Branch: main
 */
 
 define( 'RS_GF_Edit_Entry_PATH', untrailingslashit( plugin_dir_path( __FILE__ ) ) );
