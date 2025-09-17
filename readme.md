@@ -2,7 +2,7 @@
 
 This plugin allows users to edit their previous entry on a gravity form. Adds a new "Editable Form" block and supports the Gravity Forms shortcode by adding the <code>editable="true"</code> property.
 
-- [View this plugin on ZingMap.com](https://zingmap.com/plugin/rs-gravity-forms-edit-entry/)
+- [View this plugin on Zingmap.com](https://zingmap.com/plugin/rs-gravity-forms-edit-entry/)
 
 ## Required Plugins
 
